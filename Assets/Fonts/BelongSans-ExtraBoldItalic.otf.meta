@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e84f6e35891d42b49bb728e1a1d8d990
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Belong Sans
+  fontNames:
+  - Belong Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c139538ea4b99034198b29accaff9961, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
